@@ -1,6 +1,6 @@
 # Vježba HTML & CSS 
 
-U toku vježbanja sam pokušao da rekreiran web stranicu grada Bihaća.
+U toku vježbanja sam pokušao da rekreiran header web stranice grada Bihaća
 
 # Slika headera koji sam ja radio
 
